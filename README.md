@@ -1,2 +1,2 @@
 # postfix-to-infix
-Conversão de uma expressão matemática pós-fixa para infixa.
+Conversion of a postfixed mathematical expression to infix.
